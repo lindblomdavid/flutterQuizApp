@@ -17,7 +17,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   final _questions = [
     {
-      'questionText': 'Bajs?',
+      'questionText': 'test123?',
       'answers': [
         'Black',
         'Red',
